@@ -12,7 +12,7 @@ export default {
 	components: {
 		'sighting': Sighting
 	},
-	props: ['sightings']
+	props: ['sightings'],
 }
 </script>
 
